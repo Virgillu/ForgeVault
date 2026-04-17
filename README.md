@@ -67,3 +67,8 @@ $ anvil --help
 $ cast --help
 ```
 
+
+## 🔒 Security Audit
+
+A comprehensive security audit report is available [here](./docs/AUDIT_REPORT.md).
+
