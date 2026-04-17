@@ -72,3 +72,8 @@ $ cast --help
 
 A comprehensive security audit report is available [here](./docs/AUDIT_REPORT.md).
 
+### Security Audit
+
+A comprehensive security audit report is available [here](./docs/AUDIT_REPORT.md).
+
+[![Audit](https://img.shields.io/badge/Audit-Self_Reviewed-blue)](./docs/AUDIT_REPORT.md)
